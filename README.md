@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amy Ramadhan</h1>
-<h3 align="center">A passionate junior Flutter developer from Indonesia</h3>
+<h3 align="center">A passionate junior Mobile & Web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter Framework and Dart Programming Language**
+- 🌱 I’m currently learning Mobile & Web Development
 
-- 💬 Ask me about **Flutter and Dart**
+- Ask me about Flutter, HTML, CSS, & JavaScript
 
 - 📫 How to reach me **amyramadhan99@gmail.com**
 
